@@ -1,0 +1,8 @@
+name: Suite1
+configFailurePolicy: skip
+tests:
+  - name: Test1
+  classes:
+    - test.TestNG_Demo
+    - test.TestNG_Demo2
+
